@@ -3,3 +3,5 @@ code . in bash(to open a visual studio)
 create file, save, git add, and git commit all in your local repo.
 Push changes from local repo to github.com ( git push origin master )
 check in repository by refreshing the page
+how to add repo the bash????? [1. git init
+ 2. git remote add origin url and then git push -u origin main]
