@@ -1,0 +1,5 @@
+Update local repo.
+code . in bash(to open a visual studio)
+create file, save, git add, and git commit all in your local repo.
+Push changes from local repo to github.com ( git push origin master )
+check in repository by refreshing the page
