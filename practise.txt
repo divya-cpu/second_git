@@ -1,0 +1,3 @@
+Before you begin, be sure your account's default identity is set with:
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
